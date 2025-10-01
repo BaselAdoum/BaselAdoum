@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### I'm glad you landed at my GitHub ✨
-I am an aspiring software developer ![Uploading image.png…]()
+I am an aspiring software developer <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/a72540d2-b5f3-4e1b-a1eb-61a946728c77" />
+
 
 
 - 📫 How to reach me: ...
