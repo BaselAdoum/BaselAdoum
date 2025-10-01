@@ -20,5 +20,5 @@ I'm an aspiring software developer transitioning from sociocultural work.
 
 **📫 Let's Connect:**
 - Email: Adoumbasel@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/basel-adoum/) ← Add your actual LinkedIn URL!
+- [LinkedIn](https://www.linkedin.com/in/basel-adoum/)
 
