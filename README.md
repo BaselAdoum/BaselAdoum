@@ -1,5 +1,6 @@
-### Hi there 👋
-## I'm glad you landed at my GitHub ✨
+## Hi there 👋
+### I'm glad you landed at my GitHub ✨
+I am an aspiring software developer ![Uploading image.png…]()
 
 
 - 📫 How to reach me: ...
